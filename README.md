@@ -1,2 +1,2 @@
-# 6VR-Statistiek
+# 6VrijeRuimteStatistiek
 ASO Spijker 6 Vrije Ruimte Statistiek
