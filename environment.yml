@@ -2,5 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - r-base=4.1
+  - r-dplyr
+  - r-ggplot2
+  - r-plotly
   - r-tidyverse
-  - r-datasauRus
