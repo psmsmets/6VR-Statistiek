@@ -12,3 +12,5 @@ RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 * [lege R notebook](https://mybinder.org/v2/gh/psmsmets/6VrijeRuimteStatistiek/main?labpath=index.ipynb)
 
 * [R tutorial](https://mybinder.org/v2/gh/psmsmets/6VrijeRuimteStatistiek/main?labpath=tutorial.ipynb)
+
+* [Steekproef geboortes 2002](https://mybinder.org/v2/gh/psmsmets/6VrijeRuimteStatistiek/main?labpath=steekproef%20geboortes%202002.ipynb)
