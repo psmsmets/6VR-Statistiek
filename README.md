@@ -15,4 +15,4 @@ RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 
 * [R tutorial](https://hub.pietersmets.be/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpsmsmets%2F6VrijeRuimteStatistiek&urlpath=tree%2F6VrijeRuimteStatistiek%2Fnotebooks%2Ftutorial.ipynb)
 
-* [Steekproef geboortes 2002](https://hub.pietersmets.be/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpsmsmets%2F6VrijeRuimteStatistiek&urlpath=tree%2F6VrijeRuimteStatistiek%2Fnotebooks%2Fsteekproef%20geboortes%202002.ipynb)
+* [Steekproef geboortes 2002](https://hub.pietersmets.be/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpsmsmets%2F6VrijeRuimteStatistiek&urlpath=tree%2F6VrijeRuimteStatistiek%2Fnotebooks%2Fsteekproef%20geboortes%202002%20(template).ipynb)
